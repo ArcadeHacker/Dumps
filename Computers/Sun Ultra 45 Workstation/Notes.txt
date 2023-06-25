@@ -1,0 +1,1 @@
+Firmware dumps obtained from a donor Sun Ultra 45 motherboard model 375-3553. The board was non-working and the user replaceable NVRAM eeprom chip was missing, a dump of this chip is pending.
