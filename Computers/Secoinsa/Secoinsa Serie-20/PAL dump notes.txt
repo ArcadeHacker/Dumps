@@ -1,0 +1,1 @@
+PAL IC’s dumped with Charle’s Mcdonnald PAL to 27C020 adapter. The binaries contain all the possible output combination of the PLD device for a given input. Use Charles MacDonald PLD.exe to extract the equations. This should work for all the L type PALs in this set, but probably not for the R (registered) type ones.
