@@ -1,0 +1,6 @@
+Measured clocks
+
+IC18 Z80 Clock 5.5289 Mhz
+Q1 XTAL 32.768 khz 
+Q3 XTAL 11.0573 Mhz
+Q4 XTAL 4.4334 Mhz
