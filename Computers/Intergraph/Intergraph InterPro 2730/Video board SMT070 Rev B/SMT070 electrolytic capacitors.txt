@@ -1,0 +1,11 @@
+SMT070 Rev B Video board Electrolytic capacitors			
+C1	100uf	6v	6x6mm
+C4	100uf	6v	6x6mm
+C5	100uf	6v	6x6mm
+C6	10uf	16v	4x4mm
+C8	100uf	6v	6x6mm
+C9	100uf	6v	6x6mm
+C10	100uf	6v	6x6mm
+C11	100uf	6v	6x6mm
+C12	100uf	6v	6x6mm
+R310	100uf	6v	6x6mm	Cap marked as "R310" next to connector J4
